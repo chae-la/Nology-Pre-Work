@@ -1,7 +1,7 @@
 
 body {
   max-width: 425px;
-  margin: 0 17.5px;
+  margin: 0 20px;
   height: 100%;
   background-color: #e6e6e6;
   color:#1b2552;
@@ -79,10 +79,36 @@ font-size: 3vh
 }
 
 .imgPen{
-    width: 30vh;
+    width: 35vh;
 }
 
 .penguin1{
     display: flex;
     align-items: center;
+    font-size: 2vh;
+}
+
+.penguin2{
+    display: flex;
+    align-items: center;
+    font-size:2vh;
+}
+
+.penguin3{
+    display: flex;
+    align-items: center;
+    font-size: 1.8vh;
+}
+.penguin4{
+    display:flex;
+    align-items: center;
+    font-size: 2vh;
+}
+
+footer{
+    background-color: #FBFBE0 ;
+    text-align: center;
+    padding: 10px 70px;
+    display: flex;
+    flex-direction: column;
 }
