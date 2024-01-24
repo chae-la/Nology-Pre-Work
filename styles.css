@@ -1,7 +1,7 @@
 
 body {
   max-width: 425px;
-  margin: 0 20px;
+  margin: 0 50px;
   height: 100%;
   background-color: #e6e6e6;
   color:#1b2552;
@@ -17,16 +17,18 @@ font-size: 3vh
   font-family:fantasy;
   font-size: 8vh;
   font-weight:lighter;
-  
+  margin-top: -1vh;
 }
 .login{
     color: #1b2552;
     border: 2px solid #1b2552;
     border-radius: 10px;
-    text-align: center;
-    justify-content: center;
-    font-weight: 700;
     max-height: 75px;
+    width: 150px;
+    margin-top: 0vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .flex-contain{
@@ -45,17 +47,19 @@ font-size: 3vh
 .phone{
     height: 70vh;
     width: auto;
+    margin-left: 4.9vw
 }
+
 
 .resources{
     text-align: center;
-    font-size: 3vh;
+    font-size: 2.7vh;
     color: #1b2552;
 }
 .created{
     text-align:center;
     color: #47bdf2;
-    font-size: 2.5vh
+    font-size: 2.3vh
 }
 .empower{
     text-align: center;
@@ -64,13 +68,14 @@ font-size: 3vh
 }
 
 .button{
-    max-width: 20vw;
+    max-width: 25vw;
     text-align: center;
-    font-size: 2.5vh;
+    font-size: 2.1vh;
     color:#e6e6e6;
     background-color: #1b2552;
     border-radius: 5px;
     padding: 20px 50px;
+    margin-left: 15vw;
 }
 
 .find{
@@ -85,24 +90,34 @@ font-size: 3vh
 .penguin1{
     display: flex;
     align-items: center;
-    font-size: 2vh;
+    font-size: 14px;
 }
 
 .penguin2{
     display: flex;
     align-items: center;
-    font-size:2vh;
+    font-size:14px;
 }
 
 .penguin3{
     display: flex;
     align-items: center;
-    font-size: 1.8vh;
+    font-size: 14px;
 }
 .penguin4{
     display:flex;
     align-items: center;
-    font-size: 2vh;
+    font-size: 14px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+
+.italics{
+    font-style: oblique;
+    font-weight: lighter;
 }
 
 footer{

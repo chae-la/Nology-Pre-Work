@@ -39,31 +39,32 @@
             <h2 class="find">Here you will find:</h2>
         </div>
         <div class="penguin1">
-            <h3>Low-effort activity ideas to suit your mood and budget</h3>
+            <h3><span class="bold">Low-effort activity ideas</span> to suit your mood and budget</h3>
             <img class= "imgPen"src="Bright Ideas Penguin.svg" alt="Penguin with a lightbulb moment">
         </div>
         <div class="penguin2">
             <img class="imgPen" src="Angry Penguin.svg" alt="Angry Penguin">
-            <h3>Fast and clear answers to most common parenting challenges</h3>
+            <h3><span class="bold">Fast and clear answers</span> to most common parenting challenges</h3>
             
         </div>
         <div class="penguin3">
-            <h3>Cliff-notes from top-rated parenting books(because who has the time to read the whole thing?)</h3>
+            <h3><span class="bold">Cliff-notes</span> from top-rated parenting books <span class="italics">(because who has the time to read the whole thing?)</span></h3>
             <img class="imgPen" src="Studious Penguin.svg" alt="Penguin reading a book whilst wearing glasses">
         </div>
         <div class="penguin4">
             <img class="imgPen" src="Tired Penguin.svg" alt="Penguin Stretching">
-        <h3>Longer reads for the SuperDads out there</h3>
+        <h3><span class="bold">Longer reads</span> for the SuperDads out there</h3>
         
     </div>
     </section>
     <div>
         <h2 class="button">Sign Up</h2>
     </div>
+
+    </body>
     <footer>
         <h2>Contact Us</h2>
         <h2>Privacy</h2>
         <h2>Terms</h2>
     </footer>
-</body>
 </html>
