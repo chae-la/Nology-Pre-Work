@@ -1,36 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <title>Landing-Mobile</title>
 </head>
+
 <body>
     <div>
-    <header>
-        <h2 class="time">9:41</h2>
+        <header>
+            <h2 class="time">9:41</h2>
             <div class="symbols">
-             <img class="signal" src="https://cdn-icons-png.flaticon.com/512/39/39538.png">
-             <img class="wifi" src="https://cdn.pixabay.com/photo/2017/03/05/17/39/wi-fi-2119225_1280.png">
-             <img class="battery" src="https://www.pngfind.com/pngs/b/688-6885007_battery-low-svg-png-icon-free-download-mobile.png">
+                <img class="signal" src="https://cdn-icons-png.flaticon.com/512/39/39538.png">
+                <img class="wifi" src="https://cdn.pixabay.com/photo/2017/03/05/17/39/wi-fi-2119225_1280.png">
+                <img class="battery"
+                    src="https://www.pngfind.com/pngs/b/688-6885007_battery-low-svg-png-icon-free-download-mobile.png">
             </div>
-    </header>
-    <div class="flex-contain">
-        <h1 class="name">DADA</h1>
-        <h2 class="login">Login</h2>
+        </header>
+        <div class="flex-contain">
+            <h1 class="name">DADA</h1>
+            <h2 class="login">Login</h2>
         </div>
         <div>
-        <h2 class="description">A parenting coach in your pocket</h2>
-    
-    </div></div>
+            <h2 class="description">A parenting coach in your pocket</h2>
+
+        </div>
+    </div>
     </div>
     <img class="phone" src="Image of Phone.svg" alt="Image of a phone with the app concept">
 
     <section>
         <h2 class="resources">Most parenting resources are built with moms in mind.</h2>
         <h3 class="created">We've created one for you, Dad!</h3>
-        <p class="empower">We want to empower fathers to parent with confidence and enjoy more quality time with their kids.</p>
+        <p class="empower">We want to empower fathers to parent with confidence and enjoy more quality time with their
+            kids.</p>
     </section>
     <div>
         <h2 class="button">Get Dadvice</h2>
@@ -42,31 +47,33 @@
         </div>
         <div class="penguin1">
             <h3><span class="bold">Low-effort activity ideas</span> to suit your mood and budget</h3>
-            <img class= "imgPen"src="Bright Ideas Penguin.svg" alt="Penguin with a lightbulb moment">
+            <img class="imgPen" src="Bright Ideas Penguin.svg" alt="Penguin with a lightbulb moment">
         </div>
         <div class="penguin2">
             <img class="imgPen" src="Angry Penguin.svg" alt="Angry Penguin">
             <h3><span class="bold">Fast and clear answers</span> to most common parenting challenges</h3>
-            
+
         </div>
         <div class="penguin3">
-            <h3><span class="bold">Cliff-notes</span> from top-rated parenting books <span class="italics">(because who has the time to read the whole thing?)</span></h3>
+            <h3><span class="bold">Cliff-notes</span> from top-rated parenting books <span class="italics">(because who
+                    has the time to read the whole thing?)</span></h3>
             <img class="imgPen" src="Studious Penguin.svg" alt="Penguin reading a book whilst wearing glasses">
         </div>
         <div class="penguin4">
             <img class="imgPen" src="Tired Penguin.svg" alt="Penguin Stretching">
-        <h3><span class="bold">Longer reads</span> for the SuperDads out there</h3>
-        
-    </div>
+            <h3><span class="bold">Longer reads</span> for the SuperDads out there</h3>
+
+        </div>
     </section>
     <div>
         <h2 class="button">Sign Up</h2>
     </div>
 
-    </body>
-    <footer>
-        <h2>Contact Us</h2>
-        <h2>Privacy</h2>
-        <h2>Terms</h2>
-    </footer>
+</body>
+<footer>
+    <h2>Contact Us</h2>
+    <h2>Privacy</h2>
+    <h2>Terms</h2>
+</footer>
+
 </html>

@@ -1,31 +1,35 @@
-
 body {
-  max-width: 425px;
-  margin: 0 50px;
-  height: 100%;
-  background-color: #e9e9e5;
-  color:#1b2552;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    max-width: 425px;
+    margin: 0 50px;
+    height: 100%;
+    background-color: #e9e9e5;
+    color: #1b2552;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
-.time{
-font-size: 3vh;
+.time {
+    font-size: 3vh;
 }
-.signal{
+
+.signal {
     height: 20px;
     padding-right: 10px;
 }
-.wifi{
+
+.wifi {
     height: 20px;
     padding-right: 10px;
 }
-.battery{
+
+.battery {
     height: 20px;
 }
-header{
+
+header {
     display: flex;
 }
-.symbols{
+
+.symbols {
     display: flex;
     align-items: center;
     justify-content: end;
@@ -34,13 +38,14 @@ header{
 }
 
 .name {
-  color: #1b2552;
-  font-family:fantasy;
-  font-size: 8vh;
-  font-weight:lighter;
-  margin-top: -1vh;
+    color: #1b2552;
+    font-family: fantasy;
+    font-size: 8vh;
+    font-weight: lighter;
+    margin-top: -1vh;
 }
-.login{
+
+.login {
     color: #1b2552;
     border: 2px solid #1b2552;
     border-radius: 10px;
@@ -52,104 +57,107 @@ header{
     align-items: center;
 }
 
-.flex-contain{
+.flex-contain {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
 }
 
-.description{
+.description {
     color: #47bdf2;
     font-size: 4vh;
     font-weight: bold;
     text-align: center;
 }
 
-.phone{
+.phone {
     height: 70vh;
     width: auto;
     margin-left: 4.9vw
 }
 
 
-.resources{
+.resources {
     text-align: center;
     font-size: 2.7vh;
     color: #1b2552;
     margin: 50px 0;
 }
-.created{
-    text-align:center;
+
+.created {
+    text-align: center;
     color: #47bdf2;
     font-size: 2.4vh;
     margin-bottom: 50px;
 }
-.empower{
+
+.empower {
     text-align: center;
     color: #1b2552;
     font-size: 2vh;
     margin-bottom: 50px;
 }
 
-.button{
+.button {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     width: 25vw;
     text-align: center;
     font-size: 2.1vh;
-    color:#e6e6e6;
+    color: #e6e6e6;
     background-color: #1b2552;
     border-radius: 5px;
     padding: 20px 50px;
     margin: auto;
 }
 
-.find{
-    text-align:center;
+.find {
+    text-align: center;
     font-size: 3.5vh;
     margin-top: 50px;
 }
 
-.imgPen{
+.imgPen {
     width: 35vh;
 }
 
-.penguin1{
+.penguin1 {
     display: flex;
     align-items: center;
     font-size: 14px;
 }
 
-.penguin2{
-    display: flex;
-    align-items: center;
-    font-size:14px;
-}
-
-.penguin3{
+.penguin2 {
     display: flex;
     align-items: center;
     font-size: 14px;
 }
-.penguin4{
-    display:flex;
+
+.penguin3 {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+.penguin4 {
+    display: flex;
     align-items: center;
     font-size: 14px;
     margin-bottom: 50px;
 }
 
-.bold{
+.bold {
     font-weight: bold;
 }
 
 
-.italics{
+.italics {
     font-style: oblique;
     font-weight: lighter;
 }
 
-footer{
-    background-color: #FBFBE0 ;
+footer {
+    background-color: #FBFBE0;
     text-align: center;
     padding: 10px 70px;
     display: flex;
