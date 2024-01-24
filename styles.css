@@ -76,16 +76,19 @@ header{
     text-align: center;
     font-size: 2.7vh;
     color: #1b2552;
+    margin: 50px 0;
 }
 .created{
     text-align:center;
     color: #47bdf2;
-    font-size: 2.3vh
+    font-size: 2.4vh;
+    margin-bottom: 50px;
 }
 .empower{
     text-align: center;
     color: #1b2552;
     font-size: 2vh;
+    margin-bottom: 50px;
 }
 
 .button{
@@ -104,6 +107,7 @@ header{
 .find{
     text-align:center;
     font-size: 3.5vh;
+    margin-top: 50px;
 }
 
 .imgPen{
@@ -131,6 +135,7 @@ header{
     display:flex;
     align-items: center;
     font-size: 14px;
+    margin-bottom: 50px;
 }
 
 .bold{
@@ -149,7 +154,7 @@ footer{
     padding: 10px 70px;
     display: flex;
     flex-direction: column;
-    margin-top: 30px;
+    margin-top: 50px;
     margin-left: -50px;
     margin-right: -50px;
 }
