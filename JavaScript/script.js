@@ -12,9 +12,8 @@ console.log(isNumberPositive(10));
 
 // Write a function that takes a number of days and converts it into an age.
 function convertDaysToAge (n) {
-    console.log(n / 365);
+    return(n / 365);
 }
-
 
 console.log(convertDaysToAge(3650));
 console.log(convertDaysToAge(6570));
