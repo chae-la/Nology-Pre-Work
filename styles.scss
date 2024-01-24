@@ -1,3 +1,11 @@
-@media screen and (max-width:425px) {
-    
+
+body{
+    max-width: 425px;
+    margin: 0 17.5px;
+    height: 100%;
+    background-color: #e6e6e6;
+}
+
+.name{
+    color: blue;
 }

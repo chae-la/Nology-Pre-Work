@@ -1,1 +1,88 @@
-/*# sourceMappingURL=styles.css.map */
+
+body {
+  max-width: 425px;
+  margin: 0 17.5px;
+  height: 100%;
+  background-color: #e6e6e6;
+  color:#1b2552;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.time{
+font-size: 3vh
+}
+
+.name {
+  color: #1b2552;
+  font-family:fantasy;
+  font-size: 8vh;
+  font-weight:lighter;
+  
+}
+.login{
+    color: #1b2552;
+    border: 2px solid #1b2552;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    font-weight: 700;
+    max-height: 75px;
+}
+
+.flex-contain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.description{
+    color: #47bdf2;
+    font-size: 4vh;
+    font-weight: bold;
+    text-align: center;
+}
+
+.phone{
+    height: 70vh;
+    width: auto;
+}
+
+.resources{
+    text-align: center;
+    font-size: 3vh;
+    color: #1b2552;
+}
+.created{
+    text-align:center;
+    color: #47bdf2;
+    font-size: 2.5vh
+}
+.empower{
+    text-align: center;
+    color: #1b2552;
+    font-size: 2vh;
+}
+
+.button{
+    max-width: 20vw;
+    text-align: center;
+    font-size: 2.5vh;
+    color:#e6e6e6;
+    background-color: #1b2552;
+    border-radius: 5px;
+    padding: 20px 50px;
+}
+
+.find{
+    text-align:center;
+    font-size: 3.5vh;
+}
+
+.imgPen{
+    width: 30vh;
+}
+
+.penguin1{
+    display: flex;
+    align-items: center;
+}

@@ -3,27 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="stylesheet" rel="styles.scss">
+    <link rel="stylesheet" href="styles.css">
     <title>Landing-Mobile</title>
 </head>
-<body style="margin: 0px 17.5px; height: 100%; background-color: #e6e6e6;">
+<body>
+    <div>
     <header>
-        <h2>9:41</h2>
+        <h2 class="time">9:41</h2>
         <img> 
         <img> 
         <img> 
     </header>
-    <div>
-    <h1 class="name">DADA</h1>
-    <h2 class="login">Login</h2>
-    <h2 class="description">A parenting coach in your pocket</h2>
+    <div class="flex-contain">
+        <h1 class="name">DADA</h1>
+        <h2 class="login">Login</h2>
+        </div>
+        <div>
+        <h2 class="description">A parenting coach in your pocket</h2>
+    
+    </div></div>
     </div>
-    <img src="Image of Phone.svg" alt="Image of a phone with the app concept">
+    <img class="phone" src="Image of Phone.svg" alt="Image of a phone with the app concept">
 
     <section>
-        <h2>Most parenting resources are built with moms in mind</h2>
-        <h3>We've created one for you, Dad!</h3>
-        <p>We want to empower fathers to parent with confidence and enjoy more quality time with their kids.</p>
+        <h2 class="resources">Most parenting resources are built with moms in mind</h2>
+        <h3 class="created">We've created one for you, Dad!</h3>
+        <p class="empower">We want to empower fathers to parent with confidence and enjoy more quality time with their kids.</p>
     </section>
     <div>
         <h2 class="button">Get Dadvice</h2>
@@ -31,22 +36,24 @@
 
     <section>
         <div>
-            <h2>Here you will find:</h2>
+            <h2 class="find">Here you will find:</h2>
         </div>
-        <div>
+        <div class="penguin1">
             <h3>Low-effort activity ideas to suit your mood and budget</h3>
-            <img src="Bright Ideas Penguin.svg" alt="Penguin with a lightbulb moment">
+            <img class= "imgPen"src="Bright Ideas Penguin.svg" alt="Penguin with a lightbulb moment">
         </div>
-        <div>
+        <div class="penguin2">
             <h3>Fast and clear answers to most common parenting challenges</h3>
-            <img src="Angry Penguin.svg" alt="Angry Penguin">
+            <img class="imgPen" src="Angry Penguin.svg" alt="Angry Penguin">
         </div>
-        <div>
+        <div class="penguin3">
             <h3>Cliff-notes from top-rated parenting books(because who has the time to read the whole thing?)</h3>
-            <img src="Studious Penguin.svg" alt="Penguin reading a book whilst wearing glasses">
+            <img class="imgPen" src="Studious Penguin.svg" alt="Penguin reading a book whilst wearing glasses">
         </div>
+        <div class="penguin4">
         <h3>Longer reads for the SuperDads out there</h3>
-        <img src="Tired Penguin.svg" alt="Penguin Stretching">
+        <img class="imgPen" src="Tired Penguin.svg" alt="Penguin Stretching">
+    </div>
     </section>
     <div>
         <h2 class="button">Sign Up</h2>
