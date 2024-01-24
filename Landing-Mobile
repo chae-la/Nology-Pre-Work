@@ -28,7 +28,7 @@
     <img class="phone" src="Image of Phone.svg" alt="Image of a phone with the app concept">
 
     <section>
-        <h2 class="resources">Most parenting resources are built with moms in mind</h2>
+        <h2 class="resources">Most parenting resources are built with moms in mind.</h2>
         <h3 class="created">We've created one for you, Dad!</h3>
         <p class="empower">We want to empower fathers to parent with confidence and enjoy more quality time with their kids.</p>
     </section>
