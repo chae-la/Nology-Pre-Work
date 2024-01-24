@@ -10,9 +10,11 @@
     <div>
     <header>
         <h2 class="time">9:41</h2>
-        <img> 
-        <img> 
-        <img> 
+            <div class="symbols">
+             <img class="signal" src="https://cdn-icons-png.flaticon.com/512/39/39538.png">
+             <img class="wifi" src="https://cdn.pixabay.com/photo/2017/03/05/17/39/wi-fi-2119225_1280.png">
+             <img class="battery" src="https://www.pngfind.com/pngs/b/688-6885007_battery-low-svg-png-icon-free-download-mobile.png">
+            </div>
     </header>
     <div class="flex-contain">
         <h1 class="name">DADA</h1>

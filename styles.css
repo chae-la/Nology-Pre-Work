@@ -11,6 +11,24 @@ body {
 .time{
 font-size: 3vh
 }
+.signal{
+    height: 20px;
+}
+.wifi{
+    height: 20px;
+}
+.battery{
+    height: 20px;
+}
+header{
+    display: flex;
+    border: solid 2px black;
+}
+.symbols{
+    display: flex;
+    align-items: center;
+    border: 2px solid black
+}
 
 .name {
   color: #1b2552;
